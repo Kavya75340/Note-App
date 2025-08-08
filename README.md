@@ -46,7 +46,7 @@ NotesApp/
 1. **Clone this repository**
 
     ```bash
-    git clone https://github.com/your-username/Note-App.git
+    git clone https://github.com/Kavya75340/Note-App.git
     cd Note-App
     ```
 
